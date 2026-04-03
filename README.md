@@ -85,14 +85,6 @@
 
 ---
 
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvan-01&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 * 🎬 Movie Recommendation System (SVD)
