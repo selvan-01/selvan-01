@@ -79,8 +79,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selvan-01&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvan-01&theme=tokyonight" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selvan-01&show_icons=true&theme=tokyonight&cache_seconds=1800)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=selvan-01&theme=tokyonight)
 </p>
 
 ---
