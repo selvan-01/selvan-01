@@ -1,41 +1,78 @@
 # 👋 Hey, I'm Senthamil Selvan (Sen)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Engineer;Data+Science+Enthusiast;Building+Real-World+Projects;40%2B+ML+Projects+Completed" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+ML+Engineer;Data+Science+Enthusiast;GenAI+%7C+NLP+%7C+Computer+Vision;Building+Real-World+AI+Applications;40%2B+ML+Projects+Completed" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Final Year CSE Student
-* 🤖 Passionate about AI, Machine Learning & Data Science
-* 📊 Built **40+ ML/DL/NLP Projects**
-* 🌐 Creating real-world apps using Streamlit
-* 🎯 Goal: Become a **Data Analyst / ML Engineer**
+* 🎓 Final Year Computer Science Engineering Student
+* 🤖 AI Engineer passionate about building **real-world intelligent systems**
+* 📊 Completed **40+ projects** across Machine Learning, Deep Learning & NLP
+* ⚡ Specialized in **AI, ML, DL, NLP, Computer Vision & Generative AI**
+* 🧠 Experienced in building **end-to-end ML pipelines & AI applications**
+* 🌐 Skilled in developing and deploying apps using **Streamlit, Flask & FastAPI**
+* ☁️ Exploring scalable AI solutions with **Docker, AWS & GCP**
+* 🎯 Actively seeking opportunities as a **ML Engineer / Junior Gen AI Developer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### 📊 Data Science & ML
+---
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+### 📊 Data Science & Visualization
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+---
+
+### 🤖 Machine Learning & AI
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-
-### 🧠 AI / Deep Learning
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras)
 
-### 🌐 Web & Tools
+---
+
+### 🧠 Generative AI & Advanced AI
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-AI-blue?style=for-the-badge)
+
+---
+
+### 🌐 Web & App Development
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
+
+---
+
+### ☁️ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud)
+
+---
+
+### 📊 BI & Analytics
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 
 ---
 
@@ -85,7 +122,7 @@
 
 ## 🧠 Quote
 
-> “Consistency + Projects + Smart Presentation = Success 🚀”
+> “Building intelligent systems that solve real-world problems 🚀”
 
 ---
 
