@@ -6,6 +6,14 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=selvan-01&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 * 🎓 Final Year Computer Science Engineering Student
@@ -16,6 +24,7 @@
 * 🌐 Skilled in developing apps using **Streamlit, Flask & FastAPI**
 * ☁️ Exploring scalable AI solutions with **Docker, AWS & GCP**
 * 🎯 Seeking opportunities as **ML Engineer / Gen AI Developer**
+
 
 ---
 
