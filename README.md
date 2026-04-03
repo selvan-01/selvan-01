@@ -6,14 +6,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=selvan-01&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🚀 About Me
 
 * 🎓 Final Year Computer Science Engineering Student
