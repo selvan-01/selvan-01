@@ -13,9 +13,9 @@
 * 📊 Completed **40+ projects** across Machine Learning, Deep Learning & NLP
 * ⚡ Specialized in **AI, ML, DL, NLP, Computer Vision & Generative AI**
 * 🧠 Experienced in building **end-to-end ML pipelines & AI applications**
-* 🌐 Skilled in developing and deploying apps using **Streamlit, Flask & FastAPI**
+* 🌐 Skilled in developing apps using **Streamlit, Flask & FastAPI**
 * ☁️ Exploring scalable AI solutions with **Docker, AWS & GCP**
-* 🎯 Actively seeking opportunities as a **ML Engineer / Junior Gen AI Developer**
+* 🎯 Seeking opportunities as **ML Engineer / Gen AI Developer**
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-### 🧠 Generative AI & Advanced AI
+### 🧠 Generative AI
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
@@ -52,7 +52,7 @@
 
 ---
 
-### 🌐 Web & App Development
+### 🌐 Web Development
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
@@ -69,7 +69,7 @@
 
 ---
 
-### 📊 BI & Analytics
+### 📊 BI Tools
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
@@ -79,8 +79,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selvan-01&show_icons=true&theme=tokyonight&cache_seconds=1800)
-  ![GitHub Streak](https://streak-stats.demolab.com?user=selvan-01&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=selvan-01&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=selvan-01&theme=tokyonight" />
 </p>
 
 ---
@@ -88,7 +88,7 @@
 ## 📈 Top Languages
 
 <p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selvan-01&layout=compact&theme=tokyonight&cache_seconds=1800)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvan-01&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -126,4 +126,4 @@
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ If you like my work, consider giving a star!
