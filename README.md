@@ -88,7 +88,7 @@
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvan-01&layout=compact&theme=tokyonight" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selvan-01&layout=compact&theme=tokyonight&cache_seconds=1800)
 </p>
 
 ---
